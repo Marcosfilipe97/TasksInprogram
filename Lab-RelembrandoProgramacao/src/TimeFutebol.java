@@ -3,7 +3,7 @@ public class TimeFutebol {
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
 		int num = teclado.nextInt();
-		int n = 6;
+		int n = 55;
 		int time[] = new int[n];
 		int i=0;
 		int adversario[] = new int[n];
